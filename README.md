@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @baitulmal
+- 👋 Hi, I’m @amil-dev
 - 👀 I’m interested in Charity, Open Source
-- 🌱 I’m currently learning Flutter, NuxtJs
-- 💞️ I’m looking to collaborate on Zakat project
+- 🌱 I’m currently learning Flutter, NuxtJs, Laravel
+- 💞️ I’m looking to collaborate on Zakat Project, Baitul Mal
 - 📫 How to reach me baitulmaldev@gmail.com
 
 <!---
