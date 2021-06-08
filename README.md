@@ -2,7 +2,7 @@
 - 👀 I’m interested in Charity, Open Source
 - 🌱 I’m currently learning Flutter, NuxtJs, Laravel
 - 💞️ I’m looking to collaborate on Zakat Project, Baitul Mal, Fundraising
-- 📫 How to reach me baitulmaldev@gmail.com
+- 📫 How to reach me baitulmaldev@gmail.com or [otherside](https://github.com/irfnrdh)
 
 <!---
 baitulmal/baitulmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
